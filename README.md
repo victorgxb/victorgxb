@@ -1,6 +1,7 @@
 ### Olá sou o Victor Gabriel 🖐️
 ## Minhas commits 🐱‍💻
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=victorgxb&show_icons=true&theme=transparent)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorgxb&layout=compact)
 
 ### Linguagens que eu estudo e utilizo
