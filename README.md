@@ -38,7 +38,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{victorgxb}/count.svg" /></p> 
 <br></div>
 
-![bcc0d6987c658446cb0a4de0c5801e9a](https://github.com/user-attachments/assets/3a98bd37-7520-43a3-b54c-df95038b994f)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
